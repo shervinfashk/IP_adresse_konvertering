@@ -1,3 +1,4 @@
+from random import randint
 
 def lag_ip_adresse(): # denne returnerer en streng
     oktet_1 = randint(0,255)
