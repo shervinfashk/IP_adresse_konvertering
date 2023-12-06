@@ -40,3 +40,5 @@ def main():
 
     print("Takk for at du brukte programmet!")
     ...
+
+main()
