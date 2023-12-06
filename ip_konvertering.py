@@ -1,3 +1,5 @@
+from functions import lag_ip_adresse,lag_subnet_maske, regn_nettverks_adresse, regn_kringkasting_adresse, regn_antall_verter 
+
 def main():
     print("Velkommen til IP-adressekonverteringsprogrammet!")
     print("Dette programmet hjelper deg med å øve på subnetting og konvertering av IP-adresser.")
